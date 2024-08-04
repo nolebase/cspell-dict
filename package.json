@@ -21,7 +21,9 @@
   "keywords": [
     "cspell",
     "dictionary",
-    "spelling"
+    "spelling",
+    "nolebase",
+    "Nólëbase"
   ],
   "exports": {
     ".": "./cspell-ext.json",
