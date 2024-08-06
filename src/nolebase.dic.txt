@@ -19,3 +19,6 @@ vitepress-plugin-meta
 vitepress-plugin-og-image
 vitepress-plugin-page-properties
 vitepress-plugin-thumbnail-hash
+unlazy
+shikijs
+vitepress-twoslash
