@@ -1,2 +1,2 @@
-e3f28282a653899b56d640bc4ed788fd7094e5a9  nolebase.trie
-1e7f1b6b0c232c15cfd4efebce772ee7a0b46908  src/nolebase.dic.txt
+8ac2f805277018885d5f2ba31759bc1ad1ce1d64  nolebase.trie
+a9b76f8838f225a56b5f95baebacc11248737dad  src/nolebase.dic.txt
