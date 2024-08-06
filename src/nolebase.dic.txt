@@ -22,3 +22,4 @@ vitepress-plugin-thumbnail-hash
 unlazy
 shikijs
 vitepress-twoslash
+twoslash
