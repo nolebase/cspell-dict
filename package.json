@@ -45,7 +45,7 @@
     "test": "shx head -n 1000 \"src/nolebase.dic.txt\" | cspell -c ./cspell-ext.json --locale=en --languageId=* stdin"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "3.14",
+    "@antfu/eslint-config": "3.16",
     "@cspell/cspell-tools": "^8.16.1",
     "bumpp": "^9.8.1",
     "cspell": "^8.16.1",
