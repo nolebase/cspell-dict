@@ -2,7 +2,7 @@
   "name": "@nolebase/cspell-dict",
   "type": "module",
   "version": "1.3.1",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.4",
   "description": "Nolebase terms dictionary for cSpell.",
   "publishConfig": {
     "access": "public"
@@ -45,11 +45,11 @@
     "test": "shx head -n 1000 \"src/nolebase.dic.txt\" | cspell -c ./cspell-ext.json --locale=en --languageId=* stdin"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "4.13.2",
-    "@cspell/cspell-tools": "^9.0.2",
-    "bumpp": "^10.1.1",
-    "cspell": "^9.0.2",
-    "eslint": "9.28.0",
+    "@antfu/eslint-config": "4.16.1",
+    "@cspell/cspell-tools": "^9.1.2",
+    "bumpp": "^10.2.0",
+    "cspell": "^9.1.2",
+    "eslint": "9.30.0",
     "gz": "^0.0.0",
     "shx": "^0.4.0"
   }
